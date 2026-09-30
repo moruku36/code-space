@@ -1,3 +1,10 @@
+# Haikus for Codespaces
+
+[English](README.md) | [日本語](README.ja.md)
+
+A small Node.js project for demonstrating GitHub Codespaces, based on the Azure Node.js hello-world sample.
+
+---
 
 # Haikus for Codespaces
 
